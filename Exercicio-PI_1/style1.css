@@ -1,0 +1,27 @@
+.divPai{
+    background-color: #adadadf5; width: 500px; height: 500px;
+} 
+
+.divFilho{
+    background-color: #53ad53; width: 250px; height: 250px;
+}
+
+.paragrafo{
+    color: red; 
+    background-color: rgb(22, 228, 166); 
+    font-size: 25px; 
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.divSecundaria {
+    background-color: rgb(170, 36, 211);
+    width: 50%; 
+    height: 50vh;
+}
+
+.divFilhaSec{
+    background-color: rgb(96, 224, 22);
+    width: 75vh; 
+    height: 50%;
+}
