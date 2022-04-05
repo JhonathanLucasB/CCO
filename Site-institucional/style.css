@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    background: black;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.header {
+    border-bottom: 1px solid aqua;
+   
+}
+
+.header .container{
+    width: 80%;
+    margin: auto;  
+    display: flex;
+    justify-content: space-between;
+}
+
+.titulo {
+    color: rgb(143, 202, 202);
+    width: fit-content;
+    align-items: center;
+}
+
+.navBar {
+    list-style: none;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    width: 500px;
+    padding: 0;
+    align-items: center;
+    
+}
+
+.cad-bg{
+    background-image:url('https://raw.githubusercontent.com/julialima1999/Aula_HTML_CSS/main/imgs/bg-jelly-fish-para-home.png');
+    display: flex;
+    justify-content: center;
+}
+.cont-bg{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin: 10px;
+    width: 370px;
+    height: 520px;
+    padding: 5px;
+}
+
+
+.dados-bg{
+    color: black;
+    padding-left: 20px;
+}
+
